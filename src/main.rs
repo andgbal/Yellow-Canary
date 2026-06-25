@@ -1,5 +1,6 @@
-mod explorer;
-use explorer::Explorer;
+mod objects;
+mod generator;
+mod structure;
 
 fn main() {
     println!("Hello, world!");
